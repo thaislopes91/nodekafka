@@ -14,12 +14,6 @@ Code Challenge - Micro-service with Node.js and Kafka
 </p>
 
 <hr>
-
-## Participants
-
-| [<img src="https://avatars0.githubusercontent.com/u/2254731?s=460&v=4" width="75px;"/>](https://github.com/diego3g) | [<img src="https://avatars2.githubusercontent.com/u/16545335?s=460&v=4" width="75px;"/>](https://github.com/pellizzetti) |
-| :-----------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: |
-|                                       [Diego Fernandes](https://github.com/diego3g)                                        |                                      [Guilherme Pellizzetti](https://github.com/pellizzetti)                                       |
 ## What can be better?
 
 - Consumer slow to start;
